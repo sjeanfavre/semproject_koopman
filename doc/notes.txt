@@ -1,0 +1,17 @@
+https://github.com/xl402/deep-koopman
+
+https://iopscience.iop.org/article/10.1088/2632-2153/ac3de0#mlstac3de0s6
+
+
+probabilistic reconstruction:
+Time-lagged Autoencoders Deep learning of slow collective variables for molecular kinetics
+VAMPnets for deep learning of molecular kinetics
+
+
+https://github.com/erichson/koopmanAE
+
+
+Multiscale graph par voisinage
+
+see long term time seriesforecasting video
+read forecasting sequential data

@@ -1,0 +1,6 @@
+Data downloaded at :
+https://opendata.dwd.de/climate_environment/GPCC/full_data_daily_v2020/
+
+https://climatedataguide.ucar.edu/climate-data/gpcc-global-precipitation-climatology-centre
+
+Then preprocessed in precip_preprocess.ipynb
